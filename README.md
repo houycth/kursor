@@ -1,3 +1,5 @@
+[中](https://github.com/houycth/kursor/blob/main/README_CN.md)/[English](https://github.com/houycth/kursor/blob/main/README.md)
+
 ## What does this program do? 
 Control mouse cursor movement through keyboard, simulate left/right click, simulate wheel rolling.
 
@@ -11,7 +13,7 @@ The control program of Windows relies on numeric keypad. My keyboard DOES NOT HA
 
 ### Start and stop
 I provide you with 2 extremely efficient ways to start:
-1. Double-click kursor.exe(There will not be any prompt or pop-up after this operation. You can proceed to the next step directly ———— refuse pop-up window, start from this.);
+1. Double-click kursor.exe(There will not be any prompt or pop-up after this operation. You can proceed to the next step directly — refuse pop-up window, start from this.);
 2. Click F7 on the keyboard to enable mouse control.
 
 At this point, you can enjoy using this program!(The program does not take effect indicates that this program is not applicable for your computer. It is recommended that you try again with a different computer if you insist on using it.)
@@ -53,4 +55,4 @@ Either of these methods terminates the program directly. There are absolutely no
 ## Plans for future updates
 I want to make this program the greatest program of this century!
 
-But now it has encountered a huge difficulty and has had to suspend the development plan ———— I've got a brand new and full-functional mouse!!!!!!
+But now it has encountered a huge difficulty and has had to suspend the development plan — I've got a brand new and full-functional mouse!!!!!!

@@ -1,3 +1,5 @@
+[中](https://github.com/houycth/kursor/blob/main/README_CN.md)/[English](https://github.com/houycth/kursor/blob/main/README.md)
+
 ## 这个程序是做什么的？
 通过键盘按键控制鼠标光标移动，模拟左键/右键点击，模拟滚轮滚动。
 
