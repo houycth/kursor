@@ -13,7 +13,7 @@ static KURSOR_ON: AtomicBool = AtomicBool::new(false);
 static MOVE_LOOP_ON: AtomicBool = AtomicBool::new(false);
 
 static MOUSE_MOVE_STEP_Y: AtomicU64 = AtomicU64::new(8);
-static MOUSE_MOVE_STEP_X: AtomicU64 = AtomicU64::new(16);
+static MOUSE_MOVE_STEP_X: AtomicU64 = AtomicU64::new(8);
 
 static SWITCH_KEY: Lazy<HashSet<Key>> = Lazy::new(|| {HashSet::from([Key::F7])});
 static DIRECTION_KEYS: Lazy<HashSet<Key>> = Lazy::new(|| {HashSet::from([Key::KeyW, Key::KeyA, Key::KeyS, Key::KeyD])});
