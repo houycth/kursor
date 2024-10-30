@@ -217,7 +217,9 @@ fn main() {
                     start_ctrl_thread();
                 }
 
-                return Some(ev);
+                // To prevent default event
+                // fix: disable Caret Browsing provided by Windows which is conflicted with this program
+                return None;
             }
 
             // Do nothing if kursor is off or key is not containded in binding keys.
